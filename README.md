@@ -4,7 +4,7 @@
 
 This Page is structured according to the Results of the Dissertation:
 
-- Devices P1,P2,P3 and "final device" have a folder each including the .scad files for the device and the channel within the device and an .stl file showing the 3D model.
+- Devices P1, P2, P3 and "final device" have a folder each including the .scad files for the device and the channel within the device and an .stl file showing the 3D model.
 
 - DetectionSoftware includes the scripts for the motion detection script as a .py, the Hough circle detection as a google colab link and the HOG algorithms as folders containing multiple crucial files.
 
