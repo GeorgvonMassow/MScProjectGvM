@@ -1,5 +1,5 @@
-# MScProjectGvM
-This repository depicts every code and script used in the MSc project of Georg von Massow
+# MScProject Georg von Massow
+## This repository depicts every code and script used in the MSc project of Georg von Massow
 
 
 This Page is structured according to the Results of the Dissertation:
