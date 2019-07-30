@@ -1,4 +1,4 @@
-use <channel/channel_simple.scad>;
+use <channel_simple.scad>;
 
 id = 1;
 od = 2;
