@@ -1,5 +1,5 @@
-use <../../../modules/rotate_extrude2.scad>;
-use <../../../modules/circ2rect.scad>;
+use </modules/rotate_extrude2.scad>;
+use </modules/circ2rect.scad>;
 
 module channel_simple(id = 1, od = 1.58, d = 4, ih = 0.5, len = 20, pd = 2, cw = 1.5, fn = 100, peh = 1, iph = 1, oph = 1, hor_in = 1, hor_out = 1, len2 = 4){
 
