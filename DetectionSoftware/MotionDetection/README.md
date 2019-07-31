@@ -1,4 +1,4 @@
-# the motion detection script
+# The Motion Detection Script
 
 This script requires 1 input. This input is given by  "-v" or "--video"  and needs to be the path to a video file that should be analysed. if no file is given the script will start a live stream through the connected camera.
 
