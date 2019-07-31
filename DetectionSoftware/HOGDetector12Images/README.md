@@ -8,4 +8,6 @@ The annotations for the training performed for this project are saved to annots.
 
 The training is performed by the train.py script. The annotation and image numpy files are required as well as the file the trained algorithm is saved to.
 
-This folder also includes test images to test the algorithm on
+This folder also includes test images to test the algorithm on.
+
+All other files and folders in this folder are necessary background parts for the script and algorithm.
