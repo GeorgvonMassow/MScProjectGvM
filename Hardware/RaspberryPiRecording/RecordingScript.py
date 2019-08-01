@@ -32,8 +32,8 @@ motionCounter = 0
 while True:
     frame = vs.read()
     frame = imutils.resize(frame, width=500)
-    frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-    #frame = cv2.GaussianBlur(frame, (21,21), 0)
+    #frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+    frame = cv2.GaussianBlur(frame, (21,21), 0)
     frame = imutils.resize(frame, width=720)
 
     if writer is None:
